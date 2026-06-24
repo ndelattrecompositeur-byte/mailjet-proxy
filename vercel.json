@@ -1,0 +1,6 @@
+json{
+  "functions": {
+    "api/send.js": { "memory": 128, "maxDuration": 10 }
+  }
+}
+Cliquez "Commit changes" et dites-moi quand c'est fait.Vous avez utilisé 90 % de votre limite de session.
